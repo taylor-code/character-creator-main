@@ -5,13 +5,7 @@ body,
 }
 
 body {
-  background: linear-gradient(
-    to bottom,
-    hsl(180deg, 25%, 92%) 0vmax,
-    hsl(180deg, 25%, 92%) 60vmax,
-    hsl(195deg, 20%, 86%) 60vmax,
-    hsl(195deg, 20%, 86%) 100vmax
-  );
+  background-color: hsl(180deg, 25%, 92%);
   margin: 0;
 }
 
